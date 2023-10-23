@@ -3,7 +3,7 @@ body {
     padding: 0;
     text-align: center;
     font-family: 'Permanent Marker', cursive;
-    /* background: linear-gradient(white, gray); */
+    background: linear-gradient(rgb(83, 69, 69), gray);
     height: 100vh;
     color: #e98a1d;
 
